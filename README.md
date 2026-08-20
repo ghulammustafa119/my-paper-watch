@@ -106,7 +106,7 @@ This is the pairing the project is built for: **spine + scheduled Routine.**
 
 So: **by hand while you learn the spine, then a daily Routine to run it for real.**
 
-**Compared to the [Sky Watch](../sky-watch/):** both are daily Routines — but Sky
+**Compared to the [Sky Watch](https://github.com/ghulammustafa119/my-sky-watch):** both are daily Routines — but Sky
 Watch reprints *today's* asteroids every run (it needs **no** memory), while this
 one shows only what's *new since last time* (it **can't work** without the spine).
 Same heartbeat, opposite memory need. That contrast is exactly *when* you need a
